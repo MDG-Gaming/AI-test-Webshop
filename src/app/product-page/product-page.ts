@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     <section class="product-page">
       <h1>Shoespeed Speedster 3000</h1>
       <p>Lightweight running shoe for daily training.</p>
-      <p class="price">&euro; 129,95</p>
+      <p class="price">&euro; 119,95</p>
     </section>
   `,
 })
